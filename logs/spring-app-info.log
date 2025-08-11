@@ -33,3 +33,7 @@
 2025-08-06 09:50:46 INFO  [CalendarApplicationTests] - Starting CalendarApplicationTests using Java 21.0.7 with PID 17792 (started by C200 in D:\kmh\spring_boot\pjt_intellij\calendar\calendar)
 2025-08-06 09:50:46 INFO  [CalendarApplicationTests] - The following 1 profile is active: "local"
 2025-08-06 09:50:53 INFO  [CalendarApplicationTests] - Started CalendarApplicationTests in 7.596 seconds (process running for 9.858)
+2025-08-11 15:22:17 INFO  [CalendarApplication] - Starting CalendarApplication using Java 21.0.7 with PID 9724 (C:\pyc\spring_boot\pjt_intellij\calendar\calendar\build\classes\java\main started by Class02 in C:\pyc\spring_boot\pjt_intellij\calendar\calendar)
+2025-08-11 15:22:17 INFO  [CalendarApplication] - The following 1 profile is active: "local"
+2025-08-11 15:22:23 INFO  [CalendarApplication] - Started CalendarApplication in 6.775 seconds (process running for 7.547)
+2025-08-11 15:22:29 INFO  [HomeController] - INFO: home()

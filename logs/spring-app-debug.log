@@ -10,3 +10,5 @@
 2025-08-05 15:04:16 DEBUG [CalendarApplicationTests] - Running with Spring Boot v3.5.3, Spring v6.2.8
 2025-08-06 09:41:05 DEBUG [CalendarApplicationTests] - Running with Spring Boot v3.5.3, Spring v6.2.8
 2025-08-06 09:50:46 DEBUG [CalendarApplicationTests] - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-08-11 15:22:17 DEBUG [CalendarApplication] - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-08-11 15:22:29 DEBUG [HomeController] - DEBUG: home()
